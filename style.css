@@ -37,7 +37,7 @@ nav ul {
 
 nav ul li a{
     margin: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     color: purple;
     font-size: 15px;
     font-weight: 700;
@@ -92,7 +92,7 @@ nav ul li a{
     margin: 0px 10px;
     font-size: 14px;
 }
-.hire-butn{
+.hire-btn{
     border: 2px solid;
     color: #373636;
 }
